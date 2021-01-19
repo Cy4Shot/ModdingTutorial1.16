@@ -1,0 +1,6 @@
+{
+	"item.tutorialmod.example_item": "Example Item",
+	"block.tutorialmod.example_block": "Example Block",
+	
+	"itemGroup.tutorial_mod": "Tutorial Mod Items"
+}
