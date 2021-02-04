@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="MIT"
+[[mods]]
+modId="tutorialmod"
+version="${file.jarVersion}"
+displayName="Tutorial Mod"
+logoFile="examplemod.png"
+credits="Tutorial by Cy4"
+description='''
+Mod by cy4.
+'''
+
+[[dependencies.tutorialmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tutorialmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"
