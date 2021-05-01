@@ -1,0 +1,11 @@
+{
+	"type": "tutorialmod:example_recipe",
+	"block": "minecraft:stone",
+	"input": {
+		"item": "tutorialmod:example_item"
+	},
+	"output": {
+		"item": "minecraft:diamond",
+		"count": 3
+	}
+}
