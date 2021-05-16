@@ -1,0 +1,25 @@
+{
+	"item.tutorialmod.example_item": "Example Item",
+	
+	"item.tutorialmod.example_sword": "Example Sword",
+	"item.tutorialmod.example_axe": "Example Axe",
+	"item.tutorialmod.example_pickaxe": "Example Pickaxe",
+	"item.tutorialmod.example_shovel": "Example Shovel",
+	"item.tutorialmod.example_hoe": "Example Leggings",
+	
+	"item.tutorialmod.example_helmet": "Example Helmet",
+	"item.tutorialmod.example_chestplate": "Example Chestplate",
+	"item.tutorialmod.example_leggings": "Example Leggings",
+	"item.tutorialmod.example_boots": "Example Boots",
+	
+	"block.tutorialmod.example_block": "Example Block",
+	"block.tutorialmod.quarry": "Quarry",
+	"block.tutorialmod.display_case": "Display Case",
+	
+	"itemGroup.tutorial_mod": "Tutorial Mod Items",
+	
+	"key.category.tutorialmod": "Tutorial Mod",
+	"key.tutorialmod.example_key": "Example Key",
+	
+	"category.tutorialmod.example_recipe": "Example Recipe Category"
+}

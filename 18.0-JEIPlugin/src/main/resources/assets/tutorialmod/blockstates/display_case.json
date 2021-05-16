@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "tutorialmod:block/display_case", "y": 270 },
+		"facing=south": { "model": "tutorialmod:block/display_case", "y": 90 },
+		"facing=east": { "model": "tutorialmod:block/display_case" },
+		"facing=west": { "model": "tutorialmod:block/display_case", "y": 180}
+	}
+}

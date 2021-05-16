@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"P P",
+		"PEP"
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:oak_planks"
+		},
+		"E": {
+			"item": "tutorialmod:example_item"
+		}
+	},
+	"result": {
+		"item": "tutorialmod:example_block",
+		"count": 3
+	}
+}
