@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:decorated",
+	"config": {
+		"decorator": {
+			"type": "minecraft:count",
+			"config": {
+				"count": 2
+			}
+		},
+		"feature": {
+			"type": "minecraft:decorated",
+			"config": {
+				"decorator": {
+					"type": "minecraft:decorated",
+					"config": {
+						"outer": {
+							"type": "minecraft:square",
+							"config": {
+							}
+						},
+						"inner": {
+							"type": "minecraft:heightmap_spread_double",
+							"config": {
+							}
+						}
+					}
+				},
+				"feature": {
+					"type": "tutorialmod:example_tree",
+					"config": {
+					}
+				}
+			}
+		}
+	}
+}
